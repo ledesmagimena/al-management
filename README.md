@@ -1,13 +1,13 @@
-# Sistema de Administración de Productos
+# Sistema de Administración de Productos y Usuarios
 Este proyecto tiene como objetivo desarrollar un sistema completo de administración de productos que permita gestionar de manera eficiente la información de los productos disponibles en un inventario.
 
 ## Tecnologías Utilizadas
-Laravel 11: Framework de desarrollo web para el backend del sistema.
-PHP 8.2: Lenguaje de programación utilizado en el desarrollo del backend.
-MYSQL 8: Gestor de base de datos.
-Sanctum: Paquete de autenticación API para Laravel.
-Spatie: Biblioteca de Laravel para la gestión de roles y permisos.
-Vue.js 3: Framework progresivo para la construcción de interfaces de usuario en el frontend.
+- Laravel 11: Framework de desarrollo web para el backend del sistema.
+- PHP 8.2: Lenguaje de programación utilizado en el desarrollo del backend.
+- MYSQL 8: Gestor de base de datos.
+- Sanctum: Paquete de autenticación API para Laravel.
+- Spatie: Biblioteca de Laravel para la gestión de roles y permisos.
+- Vue.js 3: Framework progresivo para la construcción de interfaces de usuario en el frontend.
 
 ## Instalación y Configuración (Backend)
 1. Clonar el Repositorio.
