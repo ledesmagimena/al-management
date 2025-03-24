@@ -20,7 +20,7 @@ Este proyecto tiene como objetivo desarrollar un sistema completo de administrac
 2. Instalar dependencias: npm i
    
 ## Uso
-1. Iniciar el servidor Laravel para gestionar los productos y usuarios del sistema: php artisan serve
+1. Iniciar el servidor Laravel para gestionar los productos y usuarios del sistema: php artisan serve.
 2. Acceder a la interfaz de administración de productos y usuarios mediante Vue.js: npm run dev
 3. Utilizar los roles y permisos configurados para controlar el acceso a las funcionalidades del sistema de acuerdo con las políticas definidas.
 
